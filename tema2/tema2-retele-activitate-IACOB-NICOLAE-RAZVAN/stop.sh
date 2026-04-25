@@ -1,0 +1,5 @@
+echo "Se opresc procesele Python... [cite: 2]"
+pkill -f "python3 server.py"
+pkill -f "python3 client.py"
+echo "Gata. [cite: 2]"
+echo "Toate procesele au fost oprite. [cite: 3]"
